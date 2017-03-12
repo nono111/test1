@@ -1,3 +1,4 @@
 just one new line 2
 another line 2
 another line 3 from gedit
+master change for test2.txt
