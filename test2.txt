@@ -1,1 +1,3 @@
 just one new line 2
+another line 2
+another line 3 from gedit
